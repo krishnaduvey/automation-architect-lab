@@ -27,6 +27,7 @@ Enterprise-grade API Automation Platform built in C# using layered architecture.
 ✔ Domain-driven API services  
 ✔ Enterprise validation layer  
 
+```
 Core
  ├─ Context        (Parallel-safe execution state)
  ├─ Execution      (ExecutionGuard, FailurePolicy)
@@ -46,6 +47,6 @@ Tests
  ├─ Base
  ├─ Validators
  └─ Scenarios
-
+```
 
 Built by: Krishan (Automation Architect)
